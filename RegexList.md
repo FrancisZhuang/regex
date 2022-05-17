@@ -19,3 +19,14 @@
 ```
 ¼
 ```
+
+Language: Python3
+* Regex: `(?<=\.).*`
+* Sample:
+```
+https://regexr.test.com/
+```
+* Expected Match:
+```
+test.com/
+```
